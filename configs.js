@@ -1,30 +1,14 @@
 const chalk = require("chalk")
 const fs = require("fs")
 
-
-//—————「 Set Image Url 」—————//
-global.gura = "https://telegra.ph/file/bfc156f07ea953371b052.png"
-global.game = "https://telegra.ph/file/ce42fe200ad35b3eea774.png"
-
 //—————「 Set Nama Bot & Own 」—————//
-global.botname = "GawrGura"
-global.ownername = 'MannHost'
-global.ownerNumber = ["62895329828237@s.whatsapp.net"]
-global.creator = "62895329828237@s.whatsapp.net"
-global.versionsc = "1.0.0"
-global.prefa = ['', '.']
-global.hituet = 0
-global.running = "𝐏𝐭𝐞𝐫𝐨𝐝𝐚𝐜𝐭𝐲𝐥"
-global.linkgc = "https://chat.whatsapp.com/Gvpu8dNCzYxEZ4W7KKXckP"
+global.botname = "GawrGura" //nama bot
+global.ownername = 'MannHost' //nama owner
+global.ownerNumber = ["62895329828237@s.whatsapp.net"] //nomer owner
+global.creator = "62895329828237@s.whatsapp.net" //nomer owner
 
 //—————「 Set Owner 」—————//
-global.owner = ['62895329828237']
-global.ownernomer = "62895329828237"
-global.ownernumber = '62895329828237'
-global.dana = '089509419214'
-global.gopay = '089509419214'
-global.allpay = 'TERSEDIA'
-global.ovo = 'TDK TERSEDIA'
+global.owner = ['62895329828237'] //nomer owner
 
 //—————「 Send panel 」—————————//
 global.domain = '-' // isi domain lu
@@ -34,22 +18,7 @@ global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
 
 //—————「 Set Apikey 」—————————//
-global.lol = 'haikalgans'
-global.xzn = 'haikalgans'
-global.APls = {
-	alfa: 'https://api.zahwazein.xyz'
-}
-global.APIKeys = {
-	'https://api.zahwazein.xyz': 'UWtTUH6RXjxQQDm',
-}
-global.API = {
-	alfa: 'https://api.zahwazein.xyz',
-}
-
-global.lol = 'haikalgans' // : https://api.lolhuman.xyz 
-global.keyopenai = `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` // : https://platform.openai.com
-global.apikey = "zenzkey_1d1f56b45d"
-global.sessionName = "MannHX"
+global.sessionName = "MannHX" //gausah diganti
 
 //—————「 Set Wm 」—————————//
 global.themeemoji = '🐬'
